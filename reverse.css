@@ -1,0 +1,14 @@
+*{margin:0; padding:0}
+#div1 {font-size:2vw; color:#cc4616; padding-bottom:30vh; text-align:center}
+a {color:#034359;display:inline-block; margin-bottom: 10vh; padding:0 40%}
+#wrap {padding:10vh 25%; text-align:left; font-family: 'Overpass Mono', monospace; background: #ef5d95; /* Old browsers */
+background: -moz-linear-gradient(45deg, #ef5d95 0%, #ea8fd3 38%, #ea8fd3 38%, #ea8fd3 52%, #ae75c4 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(45deg, #ef5d95 0%,#ea8fd3 38%,#ea8fd3 38%,#ea8fd3 52%,#ae75c4 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(45deg, #ef5d95 0%,#ea8fd3 38%,#ea8fd3 38%,#ea8fd3 52%,#ae75c4 100%) no-repeat; /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ef5d95', endColorstr='#ae75c4',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */}
+.game {text-align:center}
+h1 {margin:5vh 0;}
+input {font-family: 'Overpass Mono', monospace; font-size:1.5vw; margin-bottom:5vh;padding:6px}
+button {font-family: 'Overpass Mono', monospace; background:#fff; font-size:1.2vw; padding:8px}
+button:active {background:#d2fcae; color:#333}
+p span {font-weight:bold}
