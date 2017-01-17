@@ -8,6 +8,7 @@ background: linear-gradient(45deg, #ef5d95 0%,#ea8fd3 38%,#ea8fd3 38%,#ea8fd3 52
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ef5d95', endColorstr='#ae75c4',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */}
 .game {text-align:center}
 h1 {margin:5vh 0;}
+h1 span {font-size:.8vw}
 input {font-family: 'Overpass Mono', monospace; font-size:1.5vw; margin-bottom:5vh;padding:6px}
 button {font-family: 'Overpass Mono', monospace; background:#fff; font-size:1.2vw; padding:8px}
 button:active {background:#d2fcae; color:#333}
